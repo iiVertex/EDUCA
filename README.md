@@ -16,5 +16,11 @@ Website: **https://iivertex.github.io/**
    git clone (https://github.com/iiVertex/iiVertex.github.io)
 3. **Commit Changes**
 
+## Acknowledgement 
+**We used AI for tuning and debugging our code**
+
 ## License
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+You are free to use, modify, and distribute this software, provided that proper attribution is given.
+
 
